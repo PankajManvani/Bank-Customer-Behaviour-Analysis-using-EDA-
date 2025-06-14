@@ -55,7 +55,7 @@ By leveraging historical customer data, we uncover how customers interact with f
 ## ⚙️ Setup and Installation
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/bank-customer-behavior-analysis.git
+git clone https://github.com/PankajManvani/bank-customer-behavior-analysis.git
 cd bank-customer-behavior-analysis
 
 ### 2️⃣ Create and Activate a Virtual Environment 
